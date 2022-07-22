@@ -1,3 +1,4 @@
 Started working on issue01
 Implemented a solution for issue01.
 solution 1 Failed
+Implemented a new solution for issue01.
